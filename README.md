@@ -7,4 +7,4 @@ GPT+Comfyui Generate coherent pictures
 
 3.Download this
 
-![5fba5ff1f8bbd1c3e885ab8d6b0dfd2](https://github.com/StartHua/Comfyui_GPT_Story/assets/22284244/29f9059d-281c-419e-bce0-6919322c56ad)
+![1702658839882](https://github.com/StartHua/Comfyui_GPT_Story/assets/22284244/f9a733e4-7859-42c3-be70-98e30a075331)
